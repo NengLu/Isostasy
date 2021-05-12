@@ -1,0 +1,3 @@
+This TAR Archive files contains a single file giving the thermal lithospheric
+thickness at each geographic point defined on a 2 degree by 2 degree grid.
+The columns in the file are: (1) Latitude, (2) longitude and (3) thickness (km). 

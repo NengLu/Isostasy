@@ -1,0 +1,22 @@
+#Table of average lithospheric data for the continents
+#Column 1 = name of continent (see Fig. 2a in text for extent of continent used for averages)
+#Column 2 = Measure of sampled area of continent expressed as effective number of 111 km x 111 km grid squares (i.e. 1° x 1° grid square at equator).
+#Column 3 = average elevation in m
+#Column 4 = reduced average elevation in m for 100 km thick lithosphere
+#Column 5 = average conductive lithospheric thickness in km based on Priestley and McKenzie (2016) lithosphere
+#Column 6 = average crustal thickness in km from Crust1.0, or updated data for Zealandia (Lamb et al. 2015) and Antarctica (Shen et al. 2018)
+#Column 7 = standard error for elevation mean in m
+#Column 8 = standard error for lithosphere mean in km
+#Column 9 = standard error for crustal mean in km		
+
+North America	1020.82	290.006	1252.962989	189.555	39.7981	7.71507	0.411516	0.10447
+Africa	643.994	593.892	1437.397376	178.446	40.2902	13.7465	0.420308	0.0894658
+southern Africa	97.528	1098.65	1859.101613	170.722	42.0443	18.1284	0.627653	0.265641
+Eurasia	934.726	187.552	1136.401462	188.243	41.979	5.4448	0.544809	0.107066
+India	38.0808	366.985	1169.694677	174.652	40.503	19.2824	1.29267	0.603181
+South America	516.227	347.006	1169.952237	176.534	38.8731	11.9623	0.429231	0.106693
+Australia	454.453	250.828	1234.914022	191.52	39.0789	8.08835	0.734751	0.181155
+Zealandia	67.7267	-286.855	-499.1528495	80.2563	26.0664	50.5403	1.68805	0.484949
+Europe	150.382	161.055	75.50123656	92.0435	31.1087	20.4765	1.74039	0.162838
+East Antarctica	152019	1003.84	1852.549677	178.93	46.2008	1.27028	0.0852944	0.012781
+West Antarctica	82530	-198.796	-369.0787957	84.1637	28.8503	1.41753	0.0497516	0.0149488
