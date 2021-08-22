@@ -1,0 +1,24 @@
+name: conda-build
+channels:
+  - conda-forge
+  - geo-down-under
+dependencies:
+  - geo-down-under::stripy
+  - geo-down-under::litho1pt0
+  - numpy
+  - matplotlib
+  - cartopy
+  - gdal
+  - os
+  - xarry
+  - jupytext
+  - pip 
+  
+  - pip:
+    - jupyter-book
+    
+    
+  #- scipy>=1.4.1
+  #- pyshtools>=4.6.2
+  #- scipy>=1.4.1
+  #- scikit-image>=0.17.2
